@@ -15,7 +15,7 @@ The primary goal is to identify the most robust and accurate model for clinical 
 
 | File Name | Description |
 | :--- | :--- |
-| `Heart disease prediction.py` | The main Jupyter Notebook containing data cleaning, feature encoding, scaling, training, and comparative evaluation of all four classification models. |
+| `Heart disease prediction.ipynb` | The main Jupyter Notebook containing data cleaning, feature encoding, scaling, training, and comparative evaluation of all four classification models. |
 | `data-11.csv` | The dataset containing patient records with clinical measurements and the binary `HeartDisease` outcome. |
 | `README.md` | This overview file. |
 
